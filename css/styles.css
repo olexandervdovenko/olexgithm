@@ -22,3 +22,20 @@ header p{
 header h2{
     padding: 20px 0px;
 }
+
+section{
+    border: 1px solid black;
+    background-color: #ccc;
+    text-align: center;
+    margin-top: 10px;
+}
+
+section h2{
+    padding: 15px 0px;
+}
+
+section p{
+    text-align: justify;
+    padding: 20px 150px  ;
+    font-size: 15px;
+}
