@@ -3,3 +3,22 @@
     margin: 0;
     font-family: Arial, "Times New Roman", Serif;
 }
+
+header{
+    border: 1px solid black;
+    background-color: #ccc;
+    text-align: center;
+}
+
+header h1{
+    padding: 20px 0px;
+}
+
+header p{
+    font-size: 15px;
+    padding: 10px 0px;
+}
+
+header h2{
+    padding: 20px 0px;
+}
